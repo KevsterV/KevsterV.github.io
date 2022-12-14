@@ -18,4 +18,4 @@ My GitHub page is [KevsterV](http://github.com/KevsterV).
 
 * [Lab 12](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-12-jeet-m-and-kevin-v/tree/main/part-1)
 
-    Lab 12, part-1 is my all-time favorite even though this was the most challenging of all the labs we have done, the outcome was beautiful. We would use every piece of knowledge that we learned from previous labs into making an interesting program. The purpose for this lab was to create a program that prints out an animated gradient image gif. 
+    Lab 12, part-1 is my all-time favorite even though this was the most challenging of all the labs we have done, the outcome was beautiful. We would use every piece of knowledge that we learned from previous labs into making an interesting program. The purpose for this lab was to create a program that prints out an animated gradient image gif.
