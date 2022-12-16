@@ -10,7 +10,7 @@ My GitHub page is [KevsterV](http://github.com/KevsterV).
 
 * [Lab 2](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-02-KevsterV)
 
-    Lab 2, part-3 was a favorite because it my very first time getting to know coding. The purpose for this lab was get familiar with the basics like git cloning, making changes on visual code and pushing those changes in the terminal to github. Part-3 was about using format and lint, we were provided with a program that worked but needed some cleaning. It was my job to fix the program to make it look crispy clean.
+    Lab 2, part-3 was a favorite because it my very first time getting to know coding. The purpose for this lab was to get familiar with the basics like git cloning, making changes on visual code and pushing those changes in the terminal to github. Part-3 was about using format and lint, we were provided with a program that worked but needed some cleaning. It was my job to fix the program to make it look crispy clean.
 
 * [Lab 7](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-07-helen-and-landon/tree/main/part-2)
 
